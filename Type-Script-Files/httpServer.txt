@@ -1,0 +1,14 @@
+Script started on Thu Aug 31 12:24:52 2017
+sh-4.4$ dir
+DaytimeClient.class  DaytimeClient.java  httpServer.class  httpServer.java  typescript
+sh-4.4$ java httpServer.java      u 80
+Listening for connection on port 80....
+
+2017-08-31T12:25:11.380
+
+Client has disconnected from the server
+
+sh-4.4$ exit
+exit
+
+Script done on Thu Aug 31 12:25:14 2017
