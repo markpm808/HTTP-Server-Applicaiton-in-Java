@@ -1,0 +1,14 @@
+Script started on Thu Aug 31 12:26:26 2017
+sh-4.4$ dir
+DaytimeClient.class  DaytimeClient.java  httpServer.class  httpServer.java  typescript	typescript\ httpServer.txt
+sh-4.4$ java DaytimeClient y0i   80
+Connecting to localhost on port 80....
+
+Successfully Connected
+
+Message successfully sent
+
+sh-4.4$ exit
+exit
+
+Script done on Thu Aug 31 12:26:38 2017
